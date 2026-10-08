@@ -1,0 +1,8 @@
+pyarrow
+numpy
+cupy-cuda12x  # Optional: Uncomment and adjust your CUDA version if you want RTX 5060 GPU acceleration
+fastapi
+uvicorn
+streamlit
+pandas
+watchdog
